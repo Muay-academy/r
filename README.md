@@ -8,3 +8,6 @@
 ## Contributor
 - Commit Convention
 - GPG Sign
+
+## Member list
+- Sikiryl

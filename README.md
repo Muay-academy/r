@@ -4,3 +4,7 @@
 - SonarQube
 - CodeQuality
 - CodeCoverate
+
+## Contributor
+- Commit Convention
+- GPG Sign

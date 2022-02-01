@@ -12,4 +12,4 @@
 ## Member list
 - Sikiryl
 - Beaubaby
-- c3bosskung
+- c3bosskung(ลองอีกรอบครับ)

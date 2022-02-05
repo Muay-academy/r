@@ -15,7 +15,7 @@
 
 - Sikiryl
 - Beaubaby
-- c3bosskung(ลองอีกรอบครับ)
+- c3bosskung
 - alisa-uthi
 - ChanathipGeist
 - donchayut

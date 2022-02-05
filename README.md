@@ -15,7 +15,7 @@
 
 - Sikiryl
 - Beaubaby
-- c3bosskung
+- c3bosskung(Boss)
 - alisa-uthi
 - ChanathipGeist
 - donchayut

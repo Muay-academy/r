@@ -20,4 +20,5 @@
 - ChanathipGeist
 - donchayut
 - TantikornDev(MootamDev)
+- Go
 

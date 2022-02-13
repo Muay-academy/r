@@ -13,14 +13,4 @@
 
 ## Member list
 
-- Sikiryl
-- Beaubaby
-- c3bosskung
-- alisa-uthi
-- ChanathipGeist
-- donchayut
-- TantikornDev(MootamDev)
-- Go
-- kanin-kearpimy
-- SiraphobS
 - muay006706
